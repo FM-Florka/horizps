@@ -1,0 +1,9 @@
+{
+  "redirects" [
+    {
+      "source": "/",
+      "destination": "/growtopia/server_data.php",
+      "permanent": false
+    }
+  ]
+}
