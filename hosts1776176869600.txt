@@ -1,0 +1,4 @@
+168.144.99.228 growtopia1.com
+168.144.99.228 growtopia2.com
+168.144.99.228 www.growtopia1.com
+168.144.99.228 www.growtopia2.com
