@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/",
-      "destination": "/growtopia/server_data.php",
-      "permanent": false
+      "source": "/growtopia/server_data.php",
+      "destination": "/api/growtopia/server_data.php"
     }
   ]
 }
