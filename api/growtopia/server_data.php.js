@@ -4,14 +4,13 @@ module.exports = (req, res) => {
   res.setHeader("Content-Type", "text/plain");
   res.send(
     [
-      "server|127.0.0.1",
+      "server|206.189.83.8",
       "port|17091",
       "type|1",
-      "beta_server|127.0.0.1",
-      "beta_port|17091",
-      "beta_type|1",
-      "meta|HELLOWORLD",
-      "#maint|Server is under maintenance.",
+      "loginurl|gtps-loginurl-rust.vercel.app",
+      "type2|1",
+      "#maint|`5The server has on maintenance mode. Please check information about the server again.",
+      "meta|localhost",
       "RTENDMARKERBS1001",
     ].join("\n")
   );
