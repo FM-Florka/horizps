@@ -4,7 +4,7 @@ module.exports = (req, res) => {
   res.setHeader("Content-Type", "text/plain");
   res.send(
     [
-      "server|206.189.83.8",
+      "server|167.71.201.119",
       "port|17091",
       "type|1",
       "loginurl|gtps-loginurl-rust.vercel.app",
